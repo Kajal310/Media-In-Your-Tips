@@ -6,3 +6,9 @@ There are some designated gestures for doing a particular task.
 3.Three Fingers for Volume Mute
 4.Four Fingers for Play
 5.Five Fingers for Pause
+
+Technical paper : https://drive.google.com/file/d/1OJtQS-EiGI1bq9nXi9It2x43XOFIiMKC/view?usp=sharing
+
+Video link : https://drive.google.com/file/d/18QkJm28xOA5PWLeEI59qoUXoRkBwAyxs/view?usp=sharing
+
+PPT Link: https://drive.google.com/file/d/1wcN1LaAGGQGzhBugznfK6Y5rvGpzSSdV/view?usp=sharing
